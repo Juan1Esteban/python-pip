@@ -9,4 +9,5 @@ Para correr el juego ejecuta lo siguiente en la terminal:
 ```sh
 cd game
 python3 main.py
+mejora desde Vcode
 ```
